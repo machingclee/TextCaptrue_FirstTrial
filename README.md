@@ -1,4 +1,6 @@
 # TextCaptrue_FirstTrial
 This is written in python and have very minial functionality.
 
-<img src="screenshot.png"/>
+<p align="center">
+<img src="screenshot.png" width="600"/>
+</p>
