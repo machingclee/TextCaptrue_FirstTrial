@@ -110,4 +110,4 @@ dmypy.json
 # End of https://www.gitignore.io/api/python
 
 #environment variable
-environment_variable,json
+environment_variable.json
