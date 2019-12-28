@@ -1,2 +1,4 @@
 # TextCaptrue_FirstTrial
-The first google vision API experimental app, written in python.
+This is written in python and have very minial functionality.
+
+<img src="screenshot.png"/>
